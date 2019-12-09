@@ -1,0 +1,2 @@
+# WEBPACK-LEARNING
+Simple intro project for WEBPACK LEARNING
