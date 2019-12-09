@@ -1,0 +1,18 @@
+{
+  "name": "webpack-copy",
+  "version": "1.0.0",
+  "main": "scr2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode development --entry ./js/app2.js --output ./dist/bundle.js",
+    "build:prod": "webpack --mode development --entry ./js/app2.js --output ./dist/bundle.js -p"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  },
+  "dependencies": {},
+  "description": ""
+}
