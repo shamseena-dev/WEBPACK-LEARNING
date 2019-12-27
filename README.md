@@ -1,5 +1,6 @@
 # WEBPACK-LEARNING
 Simple intro project for WEBPACK LEARNING
+(without config file)
 
 # STEPS
 1.install Node.js
